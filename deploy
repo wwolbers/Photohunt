@@ -23,3 +23,4 @@ else
 	echo "This script requires the 'zip' command in your path. Hint: apt-get install zip" >&2
 	exit 1
 fi
+
