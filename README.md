@@ -1,2 +1,2 @@
 # Photohunt
-Photohunt application based on H4
+Photohunt application optimized for H4
