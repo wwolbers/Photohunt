@@ -1,5 +1,6 @@
 Photo Hunt
 ==========
+Optimized for H4
 
 Who's the first to take the required photo?
 
